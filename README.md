@@ -66,8 +66,8 @@ Lembre-se também de **não modificar** os describes dos tests na pasta `test`. 
 ### Data de entrega
 
 - Projeto individual.
-- Serão dois dias de projeto.
-- Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+- Serão `1` de projeto.
+- Data de entrega para avaliação final do projeto: `30/08/2021 - 14:00h`.
 
 ---
 
