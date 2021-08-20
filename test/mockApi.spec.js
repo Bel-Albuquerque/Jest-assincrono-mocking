@@ -22,7 +22,7 @@ Dica: Utilizem os métodos jest.fn() ou jest.spyOn().
 ATENÇÃO!!! Edite apenas este arquivo. Não altere os arquivos da pasta 'src'.
 */
 
-describe('verifica o usuário', () => {
+describe('2 - Verifica o usuário', () => {
   api.fetchURL = jest.fn();
   test('verifica se o usuário é o tunico', async () => {
     expect.assertions(7);
