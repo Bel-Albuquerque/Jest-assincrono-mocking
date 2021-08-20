@@ -13,7 +13,7 @@ a função recebe como parâmetro true e false, respectivamente.
 ATENÇÃO!!! Edite apenas este arquivo. Não altere os arquivos da pasta 'src'.
 */
 
-describe('o retorno do telefonema', () => {
+describe('1 - O retorno do telefonema', () => {
   test('atende', async () => {
     const result = await answerPhone(true);
     expect(result).toBe('Oi!');
