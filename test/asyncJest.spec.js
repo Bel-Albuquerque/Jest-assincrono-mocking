@@ -1,4 +1,5 @@
-const { answerPhone } = require('../src/asyncJest');
+const qualquer = require('../src/asyncJest');
+const { answerPhone } = qualquer
 
 const erroEsperado = new Error('Infelizmente não podemos atender...');
 
