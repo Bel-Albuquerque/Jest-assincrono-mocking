@@ -14,7 +14,7 @@ O foco aqui é a utilização de mock functions.
 ATENÇÃO!!! Edite apenas este arquivo. Não altere os arquivos da pasta 'src'.
 */
 
-describe('verifica as funções e os mocks', () => {
+describe('3 - Verifica as funções e os mocks', () => {
   mockFunctions.add = jest.fn().mockImplementation((a, b) => a + b);
   mockFunctions.subtract = jest.fn().mockImplementation((a, b) => a - b);
   mockFunctions.multiply = jest.fn().mockImplementation((a, b) => a * b);
