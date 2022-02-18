@@ -1,7 +1,7 @@
 # My Awesome Project
 
 # Contexto
-Este projeto trata-se de uma ferramenta de back-office para armazenar e buscar dados de erros que ocorreram com clientes.
+Projeto desenvolvido no módulo de fundamentos Trybe.
 
 ## Técnologias usadas
 -Jest
